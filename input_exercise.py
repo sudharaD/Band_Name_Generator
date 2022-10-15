@@ -9,3 +9,5 @@ else:
     print(displayText)
 
 # print("Your namme includes " + str(len(name)) + " characters")
+
+print( len( input("What is your name? ")))
