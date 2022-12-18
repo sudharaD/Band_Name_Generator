@@ -1,6 +1,7 @@
 name = input("What is your name? : ")
 
 count = len(name)
+print(type(count))
 displayText = "Your namme includes " + str(len(name)) + " character"
 
 if count > 1 or count < 1:
